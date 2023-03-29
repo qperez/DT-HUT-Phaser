@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset version="1.8" tiledversion="1.8.5" name="Room_Builder_free_32x32" tilewidth="32" tileheight="32" tilecount="391" columns="17">
+ <image source="Modern tiles_Free/Interiors_free/32x32/Room_Builder_free_32x32.png" width="544" height="736"/>
+ <tile id="85">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="86">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="87">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="88">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="89">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="91">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="92">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="93">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="94">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="95">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="102">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="103">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="104">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="105">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="109">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="110">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="111">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="112">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="119">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="120">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="121">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="122">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="123">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="125">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="126">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="127">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="128">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="129">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="136">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="137">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="138">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="139">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="143">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="144">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="145">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="146">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="153">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="154">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="155">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="156">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="157">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="159">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="160">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="161">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="162">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="163">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="170">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="171">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="172">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="173">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="177">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="178">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="179">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="180">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="187">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="188">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="189">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="190">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="191">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="193">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="194">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="195">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="196">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="197">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="204">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="205">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="206">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="207">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="211">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="212">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="213">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="214">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="221">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="222">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="223">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="224">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="225">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="227">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="228">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="229">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="230">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="231">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="238">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="239">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="240">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="241">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="245">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="246">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="247">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="248">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="255">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="256">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="257">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="258">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="259">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="261">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="262">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="263">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="264">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="265">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="272">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="273">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="274">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="275">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="279">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="280">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="281">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="282">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="289">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="290">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="291">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="292">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="293">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="295">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="296">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="297">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="298">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="299">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="306">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="307">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="308" type="border">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="309">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="313">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="314">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="315">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="316">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="323">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="324">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="325">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="326">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="327">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="329">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="330">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="331">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="332">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="333">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="340">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="341">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="342">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="343">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="347">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="348">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="349">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="350">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+</tileset>
